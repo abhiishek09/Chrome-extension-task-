@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Title Fetcher",
+    "version": "1.0",
+    "description": "Get information of stock market",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  

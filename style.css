@@ -1,0 +1,18 @@
+p{
+    padding: 10px;
+    font-size: 16px;
+    min-width: 100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+*{
+    background-color: #BBD6C4;
+    color: black;
+
+}
+
+button{
+    border-radius: 25%;
+    background-color: antiquewhite;
+    color: goldenrod;
+}
